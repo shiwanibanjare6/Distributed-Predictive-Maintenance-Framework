@@ -188,27 +188,6 @@ Target variables:
 
 ---
 
-## 📁 Project Structure
-
-```
-Distributed-Predictive-Maintenance-Framework/
-
-├── architecture/
-├── cluster_setup/
-├── datasets/
-├── hive/
-├── mahout/
-├── mapreduce/
-├── preprocessing/
-├── spark_models/
-├── results/
-├── paper/
-├── presentation/
-└── README.md
-```
-
----
-
 ## 🚀 Big Data Components Implemented
 
 - Multi-node Hadoop Cluster
